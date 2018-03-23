@@ -1,0 +1,29 @@
+{
+  "name": "gcli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "gcli": "bin/index.js"
+  },
+  "scripts": {
+    "dev": "node bin/index.js",
+    "test": "gcli"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pndgz/gcli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "GordonDu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pndgz/gcli/issues"
+  },
+  "homepage": "https://github.com/pndgz/gcli#readme",
+  "dependencies": {
+    "commander": "^2.15.1"
+  }
+}
