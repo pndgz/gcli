@@ -1,10 +1,10 @@
-# [gcli](https://github.com/pndgz/gcli)
+# [gpcli](https://github.com/pndgz/gpcli)
 
-> gcli for project templates
+> git project template cli
 
-## install gcli
-        npm install gcli -g
-        gcli ls
-        gcli init
-        gcli add
-        gcli rm
+## install gpcli
+        npm install gpcli -g
+        gpcli ls
+        gpcli init
+        gpcli add
+        gpcli rm

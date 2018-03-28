@@ -4,15 +4,15 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "gcli": "bin/gcli"
+    "gpcli": "bin/gpcli"
   },
   "scripts": {
-    "dev": "node bin/gcli",
-    "test": "gcli"
+    "dev": "node bin/gpcli",
+    "test": "gpcli"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pndgz/gcli.git"
+    "url": "git+https://github.com/pndgz/gpcli.git"
   },
   "keywords": [
     "cli"
@@ -20,9 +20,9 @@
   "author": "GordonDu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pndgz/gcli/issues"
+    "url": "https://github.com/pndgz/gpcli/issues"
   },
-  "homepage": "https://github.com/pndgz/gcli#readme",
+  "homepage": "https://github.com/pndgz/gpcli#readme",
   "dependencies": {
     "chalk": "^2.3.2",
     "co": "^4.6.0",
