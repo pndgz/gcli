@@ -1,5 +1,5 @@
 {
-  "name": "gcli",
+  "name": "gpcli",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,7 +15,10 @@
     "url": "git+https://github.com/pndgz/gpcli.git"
   },
   "keywords": [
-    "cli"
+    "cli",
+    "git",
+    "project",
+    "template"
   ],
   "author": "GordonDu",
   "license": "ISC",

@@ -1,7 +1,7 @@
 {
   "templates": {
     "vue": {
-      "url": "https://github.com/pndgz/gcli_vue",
+      "url": "https://github.com/pndgz/gpcli_vue",
       "desc": "Vue template project"
     }
   }
