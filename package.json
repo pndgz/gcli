@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "gcli": "bin/index.js"
+    "gcli": "bin/gcli"
   },
   "scripts": {
-    "dev": "node bin/index.js",
+    "dev": "node bin/gcli",
     "test": "gcli"
   },
   "repository": {
@@ -24,7 +24,12 @@
   },
   "homepage": "https://github.com/pndgz/gcli#readme",
   "dependencies": {
-    "commander": "^2.15.1",
-    "download-git-repo": "^1.0.2"
+    "chalk": "^2.3.2",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.15.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1"
   }
 }
