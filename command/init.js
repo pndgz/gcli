@@ -29,7 +29,7 @@ module.exports = () => {
         console.log(error)
       } else {
         console.log(chalk.green(' √ Generation completed!'))
-        console.log(' %s %s', chalk.green(' Now you can start with:'), chalk.white(`cd ${projectName} && npm install`))
+        console.log(' %s %s', chalk.green(' Now enter your project with:'), chalk.white(`cd ${projectName}`))
       }
       process.exit()
     })
