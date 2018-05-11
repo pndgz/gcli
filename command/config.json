@@ -3,6 +3,10 @@
     "vue": {
       "url": "https://github.com/pndgz/gpcli_vue",
       "desc": "Vue template project"
+    },
+    "springboot": {
+      "url": "https://github.com/pndgz/gpcli_springboot",
+      "desc": "SpringBoot template project"
     }
   }
 }
